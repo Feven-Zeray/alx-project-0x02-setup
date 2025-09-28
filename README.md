@@ -91,7 +91,7 @@ UserProps → id, name, email, address {street, suite, city, zipcode?}
 
 1️⃣ Clone the repository
 ──────────────────────
-git clone https://github.com/Deremas/alx-project-0x02-setup.git
+git clone https://github.com/Feven-Zeray/alx-project-0x02-setup.git
 cd alx-project-0x02-setup/alx-project-0x02
 
 2️⃣ Install dependencies
@@ -147,6 +147,6 @@ npm start
 
 ## Developer
 
-Developer: Dereje Masresha | GitHub: [Deremas](https://github.com/Deremas)
+Developer: Feven Zeray| GitHub: [Feven-Zeray](https://github.com/Feven-Zeray)
 
 ---
